@@ -3,6 +3,7 @@
 Trabajo de Fin de Grado en *Ergodicidad y caos en mecánica cuántica*, Grado en Física, Universidad Complutense de Madrid.
 
   Autor: Daniel Michel Pino González (danielmp@ucm.es)
+  
   Supervisor: Armando Relaño Pérez (armando.relano@fis.ucm.es), Dpto. de Estructura de la Materia, Física Térmica y Electrónica.
 
 ## Contenido:
