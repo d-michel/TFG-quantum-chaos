@@ -1,4 +1,4 @@
-# ERGODICITY AND CHAOS IN QUAMTUM MECHANICS
+# ERGODICITY AND CHAOS IN QUANTUM MECHANICS
 
 Trabajo de Fin de Grado en *Ergodicidad y caos en mecánica cuántica*, Grado en Física, Universidad Complutense de Madrid.
 
